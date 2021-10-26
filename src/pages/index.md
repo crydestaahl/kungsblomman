@@ -1,21 +1,23 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Välkommen till Kungsblomman
+image: /img/flower-jumbo.jpg
+heading: Blommor till alla tillfällen
+subheading: Hämta i butik eller via blomsterbud
 mainpitch:
-  title: Why Kaldi
+  title: "Detta erbjuder vi:"
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    Vi har det mesta i blommor du kan behöva till olika tillfällen. Vi gör alla
+    slags binderier, såsom begravning och brudbinderi och i våra kylar hittar du
+    mängder av snittblommor och buketter. 
+
+
+    Vi gör också mycket planteringar i olika stilar. Vårt sortiment av krukväxter är brett och vid säsong har vi också trädgårdsväxter.  
+
+
+    Hos oss hittar du också alla tillbehör såsom krukor, sidenväxter, blomsternäring mm. Läs mer om vårt sortiment under de olika kategorierna.
+description: "Fina och friska blommor till kontoret och årets alla högtider.
+  Kontakta oss så ser vi till att möta era önskemål. "
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -45,12 +47,9 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: Kungsblomman - Beställ via blomsterbud
+  description: Kungsblomman hjälper dig att se till så att du alltid har fräscha
+    och sprudlande blommor för alla tillfällen.
 main:
   heading: Great coffee with no compromises
   description: >
