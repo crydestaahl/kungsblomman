@@ -47,6 +47,7 @@ export const IndexPageTemplate = ({
             padding: '0.25em',
             borderRadius: '9px',
             textAlign: 'center',
+            borderRadius: '20px'
           }}
         >
           {title}
