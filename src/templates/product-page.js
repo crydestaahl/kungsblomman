@@ -25,6 +25,7 @@ export const ProductPageTemplate = ({
         backgroundImage: `url(${
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
+        border: '5px solid rgb(154, 200, 139)'
       }}
     >
       <h2
@@ -34,7 +35,7 @@ export const ProductPageTemplate = ({
           backgroundColor: 'rgba(211, 182, 212, 0.5)',
           color: 'white',
           padding: '1rem',
-          borderRadius: '20px'
+          borderRadius: '20px'          
         }}
       >
         {title}

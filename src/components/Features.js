@@ -11,15 +11,24 @@ const FeatureGrid = ({ gridItems }) => (
             <div
               style={{
                 width: '100%',
-                display: 'inline-block',
+                display: 'inline-block',    
+                border: '3px #9AC88B solid',
+                borderRadius: '5px'            
               }}
             >
             <a href="#">
-              <PreviewCompatibleImage imageInfo={item} />
+              <PreviewCompatibleImage 
+                imageInfo={item} />
             </a>
             </div>
           </div>
-          <p>{item.text}</p>
+          <p 
+            style={{ 
+              margin: '1rem 0'
+            }}
+            >
+              {item.text}
+            </p>
         </section>
       </div>
     ))}
