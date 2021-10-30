@@ -6,11 +6,13 @@ const AboutPagePreview = ({ entry, getAsset }) => {
   const data = entry.getIn(['data']).toJS()
 
   if (data) {
-    <AboutPageTemplate
-      image={getAsset(data.image)}
-      title={data.title}
-      content={data.body}
-    />
+    return (
+      <AboutPageTemplate
+        image={getAsset(data.image)}
+        title={data.title}
+        content={data.body}
+      />
+    )
   } else {
     return <div>Loading...</div>
   }
