@@ -190,8 +190,10 @@ export const pageQuery = graphql`
                   ...GatsbyImageSharpFluid
                 }
               }
-            }
+            }         
             text
+            title
+            link
           }
           heading
           description

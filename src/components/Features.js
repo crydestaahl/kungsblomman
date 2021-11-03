@@ -13,14 +13,20 @@ const FeatureGrid = ({ gridItems }) => (
                 width: '100%',
                 display: 'inline-block',    
                 border: '3px #9AC88B solid',
-                borderRadius: '5px'            
+                borderRadius: '5px',
+                marginBottom: '-3rem'            
               }}
             >
-            <a href="#">
-              <PreviewCompatibleImage 
-                imageInfo={item} />
-            </a>
+              <a href={item.link}>            
+                <PreviewCompatibleImage 
+                  imageInfo={item} /> 
+              </a>                        
             </div>
+              <a href={item.link}>            
+                <h1 className="blurb-title">
+                  {item.title}
+                </h1>
+              </a>             
           </div>
           <p 
             style={{ 
@@ -39,6 +45,7 @@ FeatureGrid.propTypes = {
   gridItems: PropTypes.arrayOf(
     PropTypes.shape({
       image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+      title: PropTypes.string,
       text: PropTypes.string,
     })
   ),

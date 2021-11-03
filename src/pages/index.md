@@ -5,7 +5,7 @@ image: /img/kungsblomman-jumbo2.jpeg
 heading: Blommor till alla tillfällen
 subheading: Hämta i butik eller via blomsterbud
 mainpitch:
-  title: "Detta erbjuder vi:"
+  title: 'Detta erbjuder vi:'
   description: >
     Vi har det mesta i blommor du kan behöva till olika tillfällen. Vi gör alla
     slags binderier, såsom begravning och brudbinderi och i våra kylar hittar du
@@ -16,17 +16,21 @@ mainpitch:
 
 
     Hos oss hittar du också alla tillbehör såsom krukor, sidenväxter, blomsternäring mm. Läs mer om vårt sortiment under de olika kategorierna.
-description: "Fina och friska blommor till kontoret och årets alla högtider.
-  Kontakta oss så ser vi till att möta era önskemål. "
+description: 'Fina och friska blommor till kontoret och årets alla högtider.
+  Kontakta oss så ser vi till att möta era önskemål. '
 intro:
   blurbs:
     - image: /img/flower2.png
+      title: Företagsblommor
+      link: 'https://www.facebook.com/'
       text: >
         FÖRETAGSBLOMMOR - Vill du har fräscha blommor levererade till ditt
         företag varje vecka eller till något särskilt event? Eller kanske vill
         du ha uppvakta personal och kunder? Hör av dig till oss så hjälper vi
         till. Välkomna!
     - image: /img/flower3.png
+      title: Brudbinderi
+      link: 'https://www.facebook.com/'
       text: >
         BRUDBINDERI -
 
@@ -35,12 +39,17 @@ intro:
 
         Välkommen in i butiken för en pratstund och en titt i våra många böcker och pärmar för mer inspiration!
     - image: /img/flower4.png
-      text: KRUKOR OCH VASER - Vi har krukor och vaser från flera olika leverantörer
+      title: Krukor och vaser
+      link: 'https://www.facebook.com/'
+      text:
+        KRUKOR OCH VASER - Vi har krukor och vaser från flera olika leverantörer
         och tack vare det kan vi hålla ett bra och prisvärt sortiment i alla
         färger, former och material. Vi har både krukor till fönsterväxterna,
         lite större till golvväxter och utomhuskrukor i olika material. Våra
         huvudleverantörer är Ensi och VK vividi. Välkommen in och kika!
     - image: /img/flower1.png
+      title: Test
+      link: 'https://www.facebook.com/'
       text: >
         We believe that good coffee has the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting
