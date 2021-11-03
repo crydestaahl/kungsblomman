@@ -5,7 +5,7 @@ image: /img/kungsblomman-jumbo2.jpeg
 heading: Blommor till alla tillfällen
 subheading: Hämta i butik eller via blomsterbud
 mainpitch:
-  title: 'Detta erbjuder vi:'
+  title: "Detta erbjuder vi:"
   description: >
     Vi har det mesta i blommor du kan behöva till olika tillfällen. Vi gör alla
     slags binderier, såsom begravning och brudbinderi och i våra kylar hittar du
@@ -16,46 +16,38 @@ mainpitch:
 
 
     Hos oss hittar du också alla tillbehör såsom krukor, sidenväxter, blomsternäring mm. Läs mer om vårt sortiment under de olika kategorierna.
-description: 'Fina och friska blommor till kontoret och årets alla högtider.
-  Kontakta oss så ser vi till att möta era önskemål. '
+description: "Fina och friska blommor till kontoret och årets alla högtider.
+  Kontakta oss så ser vi till att möta era önskemål. "
 intro:
   blurbs:
     - image: /img/flower2.png
-      title: Företagsblommor
-      link: 'https://www.facebook.com/'
-      text: >
-        FÖRETAGSBLOMMOR - Vill du har fräscha blommor levererade till ditt
-        företag varje vecka eller till något särskilt event? Eller kanske vill
-        du ha uppvakta personal och kunder? Hör av dig till oss så hjälper vi
-        till. Välkomna!
+      title: Aktuellt
+      link: https://www.facebook.com/
+      text: >-
+        
+        Följ oss på Facebook för att ta del av alla de senaste nyheterna och erbjudanden.
     - image: /img/flower3.png
-      title: Brudbinderi
-      link: 'https://www.facebook.com/'
-      text: >
-        BRUDBINDERI -
-
-        Går du i giftastankar hjälper vi gärna till med dina bröllopsblommor. Vi gör allt från brudbuketten till bordsdekorationer, brudgumscorsage och tärnbuketter. Våra duktiga florister hjälper dig att hitta just det du vill ha. Nedan ser du några av alla hundratals brudbuketter och tillbehör vi gjort. På vår facebooksida hittar du fler bilder.
-
-
-        Välkommen in i butiken för en pratstund och en titt i våra många böcker och pärmar för mer inspiration!
+      title: Bröllop
+      link: https://www.facebook.com/
+      text: |
+        Går du i giftastankar hjälper vi gärna till med dina bröllopsblommor. 
     - image: /img/flower4.png
-      title: Krukor och vaser
-      link: 'https://www.facebook.com/'
-      text:
-        KRUKOR OCH VASER - Vi har krukor och vaser från flera olika leverantörer
-        och tack vare det kan vi hålla ett bra och prisvärt sortiment i alla
-        färger, former och material. Vi har både krukor till fönsterväxterna,
-        lite större till golvväxter och utomhuskrukor i olika material. Våra
-        huvudleverantörer är Ensi och VK vividi. Välkommen in och kika!
+      title: Begravning
+      link: https://www.facebook.com/
+      text: "Vi har stor erfarenhet av begravningsblommor och levererar i hela
+        Kungsbacka. "
     - image: /img/flower1.png
-      title: Test
-      link: 'https://www.facebook.com/'
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      title: Öppettider
+      link: https://www.facebook.com/
+      text: |
+        Måndag - fredag 10-20
+
+
+        Lördag - söndag 10-18
+    - title: Besök oss på Kungsmässan
+      link: "#"
+      image: /img/logo-svarttext.png
+      text: Du finner Kungsblomman på Kungsmässan i Kungsbacka.
   heading: Kungsblomman - Beställ via blomsterbud
   description: Kungsblomman hjälper dig att se till så att du alltid har fräscha
     och sprudlande blommor för alla tillfällen.
