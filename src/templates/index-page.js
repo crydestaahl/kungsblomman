@@ -24,7 +24,7 @@ export const IndexPageTemplate = ({
         })`,
         backgroundPosition: `top left`,
         backgroundAttachment: `fixed`,
-        border: '5px #9AC88B solid'
+        border: '5px #A2B29F solid'
       }}
     >
       <div
@@ -42,7 +42,7 @@ export const IndexPageTemplate = ({
           style={{
             boxShadow:
               'rgba(211, 182, 212, 0.5)',
-            backgroundColor: 'rgba(211, 182, 212, 0.5)',
+            textShadow: '2px 2px rgb(152 152 152 / 50%)',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
@@ -58,7 +58,7 @@ export const IndexPageTemplate = ({
           style={{
             boxShadow:
             'rgba(211, 182, 212, 0.5)',
-            backgroundColor: 'rgba(211, 182, 212, 0.5)',
+            textShadow: '2px 2px rgb(152 152 152 / 50%)',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
@@ -170,7 +170,7 @@ export const pageQuery = graphql`
         title
         image {
           childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
+            fluid(maxWidth: 1200, quality: 100) {
               ...GatsbyImageSharpFluid
             }
           }

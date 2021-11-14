@@ -22,7 +22,7 @@ export const AboutPageTemplate = ({ title, image, content, contentComponent }) =
                   backgroundImage: `url(${
                     !!image.childImageSharp ? image.childImageSharp.fluid.src : image
                   })`,
-                  border: '5px solid rgb(154, 200, 139)'
+                  border: '5px solid rgb(162, 178, 159)'
                 }}
               >
               </div>

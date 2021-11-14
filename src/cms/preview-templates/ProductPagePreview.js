@@ -22,6 +22,20 @@ const ProductPagePreview = ({ entry, getAsset }) => {
       main={{
         heading: entry.getIn(['data', 'main', 'heading']),
         description: entry.getIn(['data', 'main', 'description']),
+        heading2: entry.getIn(['data', 'main', 'heading2']),
+        description2: entry.getIn(['data', 'main', 'description2']),
+        heading3: entry.getIn(['data', 'main', 'heading3']),
+        description3: entry.getIn(['data', 'main', 'description3']),
+        heading4: entry.getIn(['data', 'main', 'heading4']),
+        description4: entry.getIn(['data', 'main', 'description4']),
+        heading5: entry.getIn(['data', 'main', 'heading5']),
+        description5: entry.getIn(['data', 'main', 'description5']),
+        heading6: entry.getIn(['data', 'main', 'heading6']),
+        description6: entry.getIn(['data', 'main', 'description6']),
+        heading7: entry.getIn(['data', 'main', 'heading7']),
+        description7: entry.getIn(['data', 'main', 'description7']),
+        heading8: entry.getIn(['data', 'main', 'heading8']),
+        description8: entry.getIn(['data', 'main', 'description8']),
         image1: {
           image: getAsset(entry.getIn(['data', 'main', 'image1', 'image'])),
           alt: entry.getIn(['data', 'main', 'image1', 'alt']),
@@ -33,6 +47,18 @@ const ProductPagePreview = ({ entry, getAsset }) => {
         image3: {
           image: getAsset(entry.getIn(['data', 'main', 'image3', 'image'])),
           alt: entry.getIn(['data', 'main', 'image3', 'alt']),
+        },
+        image4: {
+          image: getAsset(entry.getIn(['data', 'main', 'image4', 'image'])),
+          alt: entry.getIn(['data', 'main', 'image4', 'alt']),
+        },
+        image5: {
+          image: getAsset(entry.getIn(['data', 'main', 'image5', 'image'])),
+          alt: entry.getIn(['data', 'main', 'image5', 'alt']),
+        },
+        image6: {
+          image: getAsset(entry.getIn(['data', 'main', 'image6', 'image'])),
+          alt: entry.getIn(['data', 'main', 'image6', 'alt']),
         },
       }}
       fullImage={entry.getIn(['data', 'full_image'])}

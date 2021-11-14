@@ -12,6 +12,11 @@ const Navbar = class extends React.Component {
     }
   }
 
+  
+  componentDidMount() {
+    console.log(this.state.navBarActiveClass ? false : true)
+  }
+
   toggleHamburger = () => {
     // toggle the active boolean in the state
     this.setState(
@@ -38,6 +43,9 @@ const Navbar = class extends React.Component {
         className="navbar is-transparent"
         role="navigation"
         aria-label="main-navigation"
+        style={{
+          background: '#e6edde'
+        }}
       >
         <div className="container">
           <div className="navbar-brand">

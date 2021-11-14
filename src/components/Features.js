@@ -12,9 +12,10 @@ const FeatureGrid = ({ gridItems }) => (
               style={{
                 width: '100%',
                 display: 'inline-block',    
-                border: '3px #9AC88B solid',
+                border: '3px #A2B29F solid',
                 borderRadius: '5px',
-                marginBottom: '-3rem'            
+                marginBottom: '-3rem',
+                boxShadow: '4px 6px 9px 2px lightgrey'            
               }}
             >
               <a href={item.link}>            
@@ -23,7 +24,11 @@ const FeatureGrid = ({ gridItems }) => (
               </a>                        
             </div>
               <a href={item.link}>            
-                <h1 className="blurb-title">
+                <h1 
+                  className="blurb-title"
+                  style={{ 
+                    textShadow: '2px 2px rgb(152 152 152 / 50%)',
+                  }}>
                   {item.title}
                 </h1>
               </a>             
@@ -33,7 +38,9 @@ const FeatureGrid = ({ gridItems }) => (
               margin: '1rem 0'
             }}
             >
-              {item.text}
+
+            {/*{item.text}*/}
+
             </p>
         </section>
       </div>

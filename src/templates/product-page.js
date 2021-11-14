@@ -32,7 +32,6 @@ export const ProductPageTemplate = ({
         className="has-text-weight-bold is-size-1"
         style={{
           boxShadow: 'rgba(211, 182, 212, 0.5), -0.5rem 0 0 rgba(211, 182, 212, 0.5)',
-          backgroundColor: 'rgba(211, 182, 212, 0.5)',
           color: 'white',
           padding: '1rem',
           borderRadius: '20px'          
@@ -45,20 +44,26 @@ export const ProductPageTemplate = ({
       <div className="container">
         <div className="section">
           <div className="columns">
-            <div className="column is-7 is-offset-1">
+            <div className="column  is-offset-1">
               <h3 className="has-text-weight-semibold is-size-2">{heading}</h3>
               <p>{description}</p>
             </div>
           </div>
           <div className="columns">
             <div className="column is-10 is-offset-1">
-              <Features gridItems={intro.blurbs} />
-              <div className="columns">
-                <div className="column is-7">
+        
+              <div className="columns is-centered">
+                <div className="column is-half">
                   <h3 className="has-text-weight-semibold is-size-3">
-                    {main.heading}
+                    {main.heading}              
                   </h3>
                   <p>{main.description}</p>
+                </div>
+                <div className="column is-half">
+                  <h3 className="has-text-weight-semibold is-size-3">
+                    {main.heading2}              
+                  </h3>
+                  <p>{main.description2}</p>
                 </div>
               </div>
               <div className="tile is-ancestor">
@@ -68,21 +73,93 @@ export const ProductPageTemplate = ({
                       <article className="tile is-child">
                         <PreviewCompatibleImage imageInfo={main.image1} />
                       </article>
-                    </div>
+                    </div>                    
                     <div className="tile is-parent">
                       <article className="tile is-child">
                         <PreviewCompatibleImage imageInfo={main.image2} />
                       </article>
+                    </div>                    
+                  </div>
+
+                  <div className="columns is-centered">
+                    <div className="column is-half">
+                      <h3 className="has-text-weight-semibold is-size-3">
+                        {main.heading3}              
+                      </h3>
+                      <p>{main.description3}</p>
+                    </div>
+                    <div className="column is-half">
+                      <h3 className="has-text-weight-semibold is-size-3">
+                        {main.heading4}              
+                      </h3>
+                      <p>{main.description4}</p>
                     </div>
                   </div>
+
+                  <div className="columns is-centered">
+                    <div className="column is-half">
+                      <h3 className="has-text-weight-semibold is-size-3">
+                        {main.heading5}              
+                      </h3>
+                      <p>{main.description5}</p>
+                    </div>
+                    <div className="column is-half">
+                      <h3 className="has-text-weight-semibold is-size-3">
+                        {main.heading6}              
+                      </h3>
+                      <p>{main.description6}</p>
+                    </div>
+                  </div>
+                  <div className="columns is-centered">
+                    <div className="column is-half">
+                      <h3 className="has-text-weight-semibold is-size-3">
+                        {main.heading7}              
+                      </h3>
+                      <p>{main.description8}</p>
+                    </div>
+                    <div className="column is-half">
+                      <h3 className="has-text-weight-semibold is-size-3">
+                        {main.heading8}              
+                      </h3>
+                      <p>{main.description8}</p>
+                    </div>
+                  </div>
+
+
                   <div className="tile is-parent">
                     <article className="tile is-child">
                       <PreviewCompatibleImage imageInfo={main.image3} />
                     </article>
                   </div>
                 </div>
+              </div>              
+
+              <div className="tile is-ancestor">
+                <div className="tile is-vertical">
+                  <div className="tile">
+                    <div className="tile is-parent is-vertical">
+                      <article className="tile is-child">
+                        <PreviewCompatibleImage imageInfo={main.image4} />
+                      </article>
+                    </div>
+                    <div className="tile is-parent">
+                      <article className="tile is-child">
+                        <PreviewCompatibleImage imageInfo={main.image5} />
+                      </article>
+                    </div>
+                  </div>
+                  <div className="tile is-parent">
+                    <article className="tile is-child">
+                      <PreviewCompatibleImage imageInfo={main.image6} />
+                    </article>
+                  </div>
+                </div>
               </div>
-              <Testimonials testimonials={testimonials} />
+
+
+
+
+          
               <div
                 className="full-width-image-container"
                 style={{
@@ -117,9 +194,26 @@ ProductPageTemplate.propTypes = {
   main: PropTypes.shape({
     heading: PropTypes.string,
     description: PropTypes.string,
+    heading2: PropTypes.string,
+    description2: PropTypes.string,
+    heading3: PropTypes.string,
+    description3: PropTypes.string,
+    heading4: PropTypes.string,
+    description4: PropTypes.string,
+    heading5: PropTypes.string,
+    description5: PropTypes.string,
+    heading6: PropTypes.string,
+    description6: PropTypes.string,
+    heading7: PropTypes.string,
+    description7: PropTypes.string,
+    heading8: PropTypes.string,
+    description8: PropTypes.string,
     image1: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
     image2: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
     image3: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+    image4: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+    image5: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+    image6: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   }),
   testimonials: PropTypes.array,
   fullImage: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
@@ -191,6 +285,20 @@ export const productPageQuery = graphql`
         main {
           heading
           description
+          heading2
+          description2
+          heading3
+          description3
+          heading4
+          description4
+          heading5
+          description5
+          heading6
+          description6
+          heading7
+          description7
+          heading8
+          description8
           image1 {
             alt
             image {
@@ -212,6 +320,36 @@ export const productPageQuery = graphql`
             }
           }
           image3 {
+            alt
+            image {
+              childImageSharp {
+                fluid(maxWidth: 1075, quality: 72) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+          }
+          image4 {
+            alt
+            image {
+              childImageSharp {
+                fluid(maxWidth: 1075, quality: 72) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+          }
+          image5 {
+            alt
+            image {
+              childImageSharp {
+                fluid(maxWidth: 1075, quality: 72) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+          }
+          image6 {
             alt
             image {
               childImageSharp {
