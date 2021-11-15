@@ -16,16 +16,6 @@ export const FindUsPageTemplate = ({ title, image, content, contentComponent }) 
               <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
                 {title}
               </h2>
-              <div
-                className="full-width-image-container about-staff margin-top-0"
-                style={{
-                  backgroundImage: `url(${
-                    !!image.childImageSharp ? image.childImageSharp.fluid.src : image
-                  })`,
-                  border: '5px solid rgb(162, 178, 159)'
-                }}
-              >
-              </div>
               <PageContent className="content" content={content} />
             </div>
           </div>
@@ -68,13 +58,6 @@ export const findUsPageQuery = graphql`
       html
       frontmatter {
         title
-        image {
-          childImageSharp {
-            fluid(maxWidth: 2200, quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
       }
     }
   }
