@@ -6,8 +6,6 @@ image: /img/personal.jpg
 ---
 
 
-# ÖPPETTIDER
-
 Måndag – fredag 10-20
 
 Lördag – söndag 10-18
