@@ -72,11 +72,11 @@ const Navbar = class extends React.Component {
                 Sortiment
               </Link>
 
-              <Link className="navbar-item" to="#">
+              <Link className="navbar-item" to="/find-us">
                 Hitta oss
               </Link>
 
-              <Link className="navbar-item" to="#">
+              <Link className="navbar-item" to="/open-hours">
                 Öppettider
               </Link>
 
