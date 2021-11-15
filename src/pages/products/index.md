@@ -3,7 +3,7 @@ heading: Blommor till alla tillfällen
 path: /products
 templateKey: product-page
 title: Sortiment
-image: /img/kungsb.jpg
+image: /img/annie-spratt-todxqieah9m-unsplash.jpg
 description: Vi har det mesta i blommor du kan behöva till olika tillfällen. Vi
   gör alla slags binderier, såsom begravning och brudbinderi och i våra kylar
   hittar du mängder av snittblommor och buketter. Vi gör också mycket
