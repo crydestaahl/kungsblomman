@@ -5,7 +5,7 @@ image: /img/kungsblomman-jumbo23.jpg
 heading: Blommor till alla tillfällen
 subheading: Hämta i butik eller via blomsterbud
 mainpitch:
-  title: "Detta erbjuder vi:"
+  title: 'Detta erbjuder vi:'
   description: >
     Vi har det mesta i blommor du kan behöva till olika tillfällen. Vi gör alla
     slags binderier, såsom begravning och brudbinderi och i våra kylar hittar du
@@ -16,36 +16,36 @@ mainpitch:
 
 
     Hos oss hittar du också alla tillbehör såsom krukor, sidenväxter, blomsternäring mm. Läs mer om vårt sortiment under de olika kategorierna.
-description: "Fina och friska blommor till kontoret och årets alla högtider.
-  Kontakta oss så ser vi till att möta era önskemål. "
+description: 'Fina och friska blommor till kontoret och årets alla högtider.
+  Kontakta oss så ser vi till att möta era önskemål. '
 intro:
   blurbs:
     - image: /img/annie-spratt2.jpg
       title: Aktuellt
       link: https://www.facebook.com/
       text: >-
-        
+
         Följ oss på Facebook för att ta del av alla de senaste nyheterna och erbjudanden.
     - image: /img/annie-spratt.jpg
       title: Bröllop
-      link: https://www.facebook.com/
+      link: /products#Brudbinderi
       text: |
-        Går du i giftastankar hjälper vi gärna till med dina bröllopsblommor. 
+        Går du i giftastankar hjälper vi gärna till med dina bröllopsblommor.
     - image: /img/alana-harris.jpg
       title: Begravning
-      link: https://www.facebook.com/
-      text: "Vi har stor erfarenhet av begravningsblommor och levererar i hela
-        Kungsbacka. "
+      link: /products#Begravningsbinderi
+      text: 'Vi har stor erfarenhet av begravningsblommor och levererar i hela
+        Kungsbacka. '
     - image: /img/tavin-dotson.jpg
       title: Öppettider
-      link: https://www.facebook.com/
+      link: #
       text: |
         Måndag - fredag 10-20
 
 
         Lördag - söndag 10-18
     - title: Besök oss på Kungsmässan
-      link: "#"
+      link: '#'
       image: /img/logo-svarttext.png
       text: Du finner Kungsblomman på Kungsmässan i Kungsbacka.
   heading: Kungsblomman - Beställ via blomsterbud

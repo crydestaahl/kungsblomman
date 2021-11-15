@@ -54,13 +54,13 @@ export const ProductPageTemplate = ({
         
               <div className="columns is-centered">
                 <div className="column is-half">
-                  <h3 className="has-text-weight-semibold is-size-3">
-                    {main.heading}              
+                  <h3 className="has-text-weight-semibold is-size-3" id={main.heading}>
+                    {main.heading}               
                   </h3>
                   <p>{main.description}</p>
                 </div>
                 <div className="column is-half">
-                  <h3 className="has-text-weight-semibold is-size-3">
+                  <h3 className="has-text-weight-semibold is-size-3" id={main.heading2}>
                     {main.heading2}              
                   </h3>
                   <p>{main.description2}</p>
@@ -83,13 +83,13 @@ export const ProductPageTemplate = ({
 
                   <div className="columns is-centered">
                     <div className="column is-half">
-                      <h3 className="has-text-weight-semibold is-size-3">
+                      <h3 className="has-text-weight-semibold is-size-3" id={main.heading3}>
                         {main.heading3}              
                       </h3>
                       <p>{main.description3}</p>
                     </div>
                     <div className="column is-half">
-                      <h3 className="has-text-weight-semibold is-size-3">
+                      <h3 className="has-text-weight-semibold is-size-3" id={main.heading4}>
                         {main.heading4}              
                       </h3>
                       <p>{main.description4}</p>
@@ -98,13 +98,13 @@ export const ProductPageTemplate = ({
 
                   <div className="columns is-centered">
                     <div className="column is-half">
-                      <h3 className="has-text-weight-semibold is-size-3">
+                      <h3 className="has-text-weight-semibold is-size-3" id={main.heading5}>
                         {main.heading5}              
                       </h3>
                       <p>{main.description5}</p>
                     </div>
                     <div className="column is-half">
-                      <h3 className="has-text-weight-semibold is-size-3">
+                      <h3 className="has-text-weight-semibold is-size-3" id={main.heading6}>
                         {main.heading6}              
                       </h3>
                       <p>{main.description6}</p>
@@ -112,13 +112,13 @@ export const ProductPageTemplate = ({
                   </div>
                   <div className="columns is-centered">
                     <div className="column is-half">
-                      <h3 className="has-text-weight-semibold is-size-3">
+                      <h3 className="has-text-weight-semibold is-size-3" id={main.heading7}>
                         {main.heading7}              
                       </h3>
                       <p>{main.description8}</p>
                     </div>
                     <div className="column is-half">
-                      <h3 className="has-text-weight-semibold is-size-3">
+                      <h3 className="has-text-weight-semibold is-size-3" id={main.heading8}>
                         {main.heading8}              
                       </h3>
                       <p>{main.description8}</p>

@@ -26,6 +26,7 @@ const FeatureGrid = ({ gridItems }) => (
               <a href={item.link}>            
                 <h1 
                   className="blurb-title"
+                  
                   style={{ 
                     textShadow: '2px 2px rgb(152 152 152 / 50%)',
                   }}>
@@ -38,9 +39,7 @@ const FeatureGrid = ({ gridItems }) => (
               margin: '1rem 0'
             }}
             >
-
             {/*{item.text}*/}
-
             </p>
         </section>
       </div>
