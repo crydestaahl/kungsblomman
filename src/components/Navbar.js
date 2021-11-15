@@ -43,9 +43,6 @@ const Navbar = class extends React.Component {
         className="navbar is-transparent"
         role="navigation"
         aria-label="main-navigation"
-        style={{
-          background: '#e6edde'
-        }}
       >
         <div className="container">
           <div className="navbar-brand">
@@ -70,9 +67,23 @@ const Navbar = class extends React.Component {
             id="navMenu"
             className={`navbar-menu ${this.state.navBarActiveClass}`}>
             <div className="navbar-start has-text-centered">
-              <Link className="navbar-item" to="/about">
-                Om oss
+
+              <Link className="navbar-item" to="/products">
+                Sortiment
               </Link>
+
+              <Link className="navbar-item" to="#">
+                Hitta oss
+              </Link>
+
+              <Link className="navbar-item" to="#">
+                Öppettider
+              </Link>
+
+              <Link className="navbar-item" to="/about">
+                Personal
+              </Link>
+
               <Link className="navbar-item" to="/products">
                 Sortiment
               </Link>
@@ -82,7 +93,7 @@ const Navbar = class extends React.Component {
               </Link>
               */}
               <Link className="navbar-item" to="/contact">
-                Kontakt
+                Kontakta oss
               </Link>
              
               <Link className="navbar-item" to="#">
