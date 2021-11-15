@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Välkommen till Kungsblomman
-image: /img/kungsblomman-jumbo2.jpeg
+image: /img/kungsblomman-jumbo23.jpg
 heading: Blommor till alla tillfällen
 subheading: Hämta i butik eller via blomsterbud
 mainpitch:
