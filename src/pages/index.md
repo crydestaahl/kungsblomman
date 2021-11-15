@@ -45,7 +45,7 @@ intro:
 
         Lördag - söndag 10-18
     - title: Besök oss på Kungsmässan
-      link: '#'
+      link: /find-us
       image: /img/logo-svarttext.png
       text: Du finner Kungsblomman på Kungsmässan i Kungsbacka.
   heading: Kungsblomman - Beställ via blomsterbud

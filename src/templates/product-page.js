@@ -51,7 +51,6 @@ export const ProductPageTemplate = ({
           </div>
           <div className="columns">
             <div className="column is-10 is-offset-1">
-        
               <div className="columns is-centered">
                 <div className="column is-half">
                   <h3 className="has-text-weight-semibold is-size-3" id={main.heading}>
@@ -81,7 +80,7 @@ export const ProductPageTemplate = ({
                     </div>                    
                   </div>
 
-                  <div className="columns is-centered">
+                  <div className="columns is-10 is-offset-1 is-centered">
                     <div className="column is-half">
                       <h3 className="has-text-weight-semibold is-size-3" id={main.heading3}>
                         {main.heading3}              
