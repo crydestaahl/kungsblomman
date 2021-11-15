@@ -20,23 +20,23 @@ description: "Fina och friska blommor till kontoret och årets alla högtider.
   Kontakta oss så ser vi till att möta era önskemål. "
 intro:
   blurbs:
-    - image: /img/flower2.png
+    - image: /img/annie-spratt2.jpg
       title: Aktuellt
       link: https://www.facebook.com/
       text: >-
         
         Följ oss på Facebook för att ta del av alla de senaste nyheterna och erbjudanden.
-    - image: /img/flower3.png
+    - image: /img/annie-spratt.jpg
       title: Bröllop
       link: https://www.facebook.com/
       text: |
         Går du i giftastankar hjälper vi gärna till med dina bröllopsblommor. 
-    - image: /img/flower4.png
+    - image: /img/alana-harris.jpg
       title: Begravning
       link: https://www.facebook.com/
       text: "Vi har stor erfarenhet av begravningsblommor och levererar i hela
         Kungsbacka. "
-    - image: /img/flower1.png
+    - image: /img/tavin-dotson.jpg
       title: Öppettider
       link: https://www.facebook.com/
       text: |
