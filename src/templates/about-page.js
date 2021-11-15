@@ -17,7 +17,7 @@ export const AboutPageTemplate = ({ title, image, content, contentComponent }) =
                 {title}
               </h2>
               <div
-                className="full-width-image-container margin-top-0"
+                className="full-width-image-container about-staff margin-top-0"
                 style={{
                   backgroundImage: `url(${
                     !!image.childImageSharp ? image.childImageSharp.fluid.src : image
@@ -70,7 +70,7 @@ export const aboutPageQuery = graphql`
         title
         image {
           childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
+            fluid(maxWidth: 2200, quality: 100) {
               ...GatsbyImageSharpFluid
             }
           }

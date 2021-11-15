@@ -20,7 +20,7 @@ export const ProductPageTemplate = ({
 }) => (
   <div className="content">
     <div
-      className="full-width-image-container margin-top-0"
+      className="full-width-image-container product-jumbo margin-top-0"
       style={{
         backgroundImage: `url(${
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
@@ -170,11 +170,14 @@ export const ProductPageTemplate = ({
                   })`,
                 }}
               />
+
+              {/*
               <h2 className="has-text-weight-semibold is-size-2">
                 {pricing.heading}
               </h2>
               <p className="is-size-5">{pricing.description}</p>
               <Pricing data={pricing.plans} />
+               */}
             </div>
           </div>
         </div>
