@@ -77,18 +77,7 @@ const Footer = class extends React.Component {
                       <Link className="navbar-item" to="/open-hours">
                         Öppettider
                       </Link>
-                    </li>
-
-                    <li>
-                    <a
-                      className="navbar-item"
-                      href="/admin/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      Admin
-                    </a>
-                  </li>
+                    </li>                
 
                   </ul>
                 </section>
@@ -107,8 +96,17 @@ const Footer = class extends React.Component {
                     alt="Instagram"
                     style={{ width: '1em', height: '1em' }}
                   />
-                </a>              
-              </div>
+                </a>
+                <div className="address">
+                    <address>
+                      Kungsblomman<br/>
+                      Telefon:<span><a href="tel:+4630016851">0300-168 51</a></span><br/>
+                      Fax 0300-163 41<br/>
+                      Kungsmässan<br/>
+                      434 38 KUNGSBACKA<br/>
+                    </address>                                
+                </div>              
+              </div>              
             </div>
           </div>
         </div>

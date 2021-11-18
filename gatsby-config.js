@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Kungsblomman - Beställ via blomsterbud',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+    'Du finner Kungsblomman på Kungsmässan i Kungsbacka. Kungsmässan ligger mitt i Kungsbacka centrum. Det är enkelt att hitta till Kungsmässan oavsett från vilket väderstreck man kommer.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

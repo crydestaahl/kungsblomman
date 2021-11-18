@@ -122,15 +122,15 @@ collections:
           #     },
           #   ],
           # }
-      - file: 'src/pages/about/index.md'
-        label: 'About'
-        name: 'about'
+      - file: 'src/pages/personal.html/index.md'
+        label: 'Personal'
+        name: 'personal'
         fields:
           - {
               label: 'Template Key',
               name: 'templateKey',
               widget: 'hidden',
-              default: 'about-page',
+              default: 'personal',
             }
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: Image, name: image, widget: image }

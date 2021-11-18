@@ -46,7 +46,7 @@ export const IndexPageTemplate = ({
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
-            borderRadius: '9px',
+          
             textAlign: 'center',
             borderRadius: '20px'
           }}
@@ -97,7 +97,7 @@ export const IndexPageTemplate = ({
                 <div className="columns">
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/products">
-                      See all products
+                      Utforska vårt sortiment
                     </Link>
                   </div>
                 </div>
