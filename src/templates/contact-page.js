@@ -4,7 +4,7 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
-export const FindUsPageTemplate = ({ title, image, content, contentComponent }) => {
+export const ContactPageTemplate = ({ title, image, content, contentComponent }) => {
   const PageContent = contentComponent || Content
 
   return (
@@ -18,7 +18,7 @@ export const FindUsPageTemplate = ({ title, image, content, contentComponent }) 
               </h2>
               <PageContent className="content" content={content} />
               <div
-                className="full-width-image-container about-staff find-us-image margin-top-0"
+                className="full-width-image-container about-staff contact-image margin-top-0"
                 style={{
                   backgroundImage: `url(${
                     !!image.childImageSharp ? image.childImageSharp.fluid.src : image
@@ -26,7 +26,7 @@ export const FindUsPageTemplate = ({ title, image, content, contentComponent }) 
                   border: '5px solid rgb(162, 178, 159)'
                 }}
               >
-            </div>
+              </div>
             </div>
           </div>
         </div>
@@ -35,18 +35,18 @@ export const FindUsPageTemplate = ({ title, image, content, contentComponent }) 
   )
 }
 
-FindUsPageTemplate.propTypes = {
+ContactPageTemplate.propTypes = {
   title: PropTypes.string.isRequired,
   content: PropTypes.string,
   contentComponent: PropTypes.func,
 }
 
-const FindUsPage = ({ data }) => {
+const ContactPage = ({ data }) => {
   const { markdownRemark: post } = data
 
   return (
     <Layout>
-      <FindUsPageTemplate
+      <ContactPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
         image={post.frontmatter.image}
@@ -56,14 +56,14 @@ const FindUsPage = ({ data }) => {
   )
 }
 
-FindUsPage.propTypes = {
+ContactPage.propTypes = {
   data: PropTypes.object.isRequired,
 }
 
-export default FindUsPage
+export default ContactPage
 
-export const findUsPageQuery = graphql`
-  query FindUsPage($id: String!) {
+export const contactPageQuery = graphql`
+  query ContactPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       html
       frontmatter {

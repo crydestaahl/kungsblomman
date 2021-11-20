@@ -1,16 +1,13 @@
 ---
 templateKey: open-hours-page
-path: /open-hours
+path: /oppettider.html
 title: Öppettider
 image: /img/personal.jpg
 ---
 
-
 Måndag – fredag 10-20
 
 Lördag – söndag 10-18
-
-
 
 **Helgöppet 2021**
 

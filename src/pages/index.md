@@ -28,24 +28,24 @@ intro:
         Följ oss på Facebook för att ta del av alla de senaste nyheterna och erbjudanden.
     - image: /img/annie-spratt.jpg
       title: Bröllop
-      link: /products#Brudbinderi
+      link: /sortiment.html#Brudbinderi
       text: |
         Går du i giftastankar hjälper vi gärna till med dina bröllopsblommor.
     - image: /img/alana-harris.jpg
       title: Begravning
-      link: /products#Begravningsbinderi
+      link: /sortiment.html#Begravningsbinderi
       text: 'Vi har stor erfarenhet av begravningsblommor och levererar i hela
         Kungsbacka. '
     - image: /img/tavin-dotson.jpg
       title: Öppettider
-      link: #
+      link: /oppettider.html #
       text: |
         Måndag - fredag 10-20
 
 
         Lördag - söndag 10-18
     - title: Besök oss på Kungsmässan
-      link: /find-us
+      link: /hittaoss.html
       image: /img/logo-svarttext.png
       text: Du finner Kungsblomman på Kungsmässan i Kungsbacka.
   heading: Kungsblomman - Beställ via blomsterbud
