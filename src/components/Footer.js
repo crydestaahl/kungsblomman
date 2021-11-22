@@ -31,19 +31,19 @@ const Footer = class extends React.Component {
                     </li>
 
                     <li>
-                      <Link className="navbar-item" to="/sortiment.html">
+                      <Link className="navbar-item" to="/sortiment">
                         Sortiment
                       </Link>
                     </li>
 
                     <li>
-                      <Link className="navbar-item" to="/personal.html">
+                      <Link className="navbar-item" to="/personal">
                         Personal 
                       </Link>
                     </li>
                     
                     <li>
-                      <Link className="navbar-item" to="/kontaktaoss.html">
+                      <Link className="navbar-item" to="/kontaktaoss">
                         Beställ blomsterbud
                       </Link>
                     </li>
@@ -62,19 +62,19 @@ const Footer = class extends React.Component {
                     */}
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/kontaktaoss.html">
+                      <Link className="navbar-item" to="/kontaktaoss">
                         Kontakt
                       </Link>
                     </li>
 
                     <li>
-                      <Link className="navbar-item" to="/hittaoss.html">
+                      <Link className="navbar-item" to="/hittaoss">
                         Hitta oss
                       </Link>
                     </li>
 
                     <li>
-                      <Link className="navbar-item" to="/oppettider.html">
+                      <Link className="navbar-item" to="/oppettider">
                         Öppettider
                       </Link>
                     </li>                

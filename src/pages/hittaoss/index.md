@@ -1,6 +1,6 @@
 ---
 templateKey: find-us-page
-path: /hittaoss.html
+path: /hittaoss
 title: Hitta till oss
 image: /img/map_214x175.jpg
 ---

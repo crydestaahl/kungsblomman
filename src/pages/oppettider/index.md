@@ -1,6 +1,6 @@
 ---
 templateKey: open-hours-page
-path: /oppettider.html
+path: /oppettider
 title: Öppettider
 image: /img/personal.jpg
 ---

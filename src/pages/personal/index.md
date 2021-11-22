@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-path: /personal.html
+path: /personal
 title: Personal
 image: /img/personal.jpg
 ---

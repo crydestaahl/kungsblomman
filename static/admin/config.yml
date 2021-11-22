@@ -122,7 +122,7 @@ collections:
           #     },
           #   ],
           # }
-      - file: 'src/pages/personal.html/index.md'
+      - file: 'src/pages/personal/index.md'
         label: 'Personal'
         name: 'personal'
         fields:
@@ -136,7 +136,7 @@ collections:
           - { label: Image, name: image, widget: image }
           - { label: 'Body', name: 'body', widget: 'markdown' }
         
-        - file: 'src/pages/kontaktaoss.html/index.md'
+        - file: 'src/pages/kontaktaoss/index.md'
         label: 'Kontakta oss'
         name: 'kontakta oss'
         fields:
@@ -149,7 +149,7 @@ collections:
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: Image, name: image, widget: image }
           - { label: 'Body', name: 'body', widget: 'markdown' }
-      - file: 'src/pages/hittaoss.html/index.md'
+      - file: 'src/pages/hittaoss/index.md'
         label: 'Hitta oss'
         name: 'find-us'
         fields:
@@ -161,7 +161,7 @@ collections:
             }
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
-      - file: 'src/pages/oppettider.html/index.md'
+      - file: 'src/pages/oppettider/index.md'
         label: 'Öppettider'
         name: 'open-hours'
         fields:
@@ -173,7 +173,7 @@ collections:
             }
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
-      - file: 'src/pages/sortiment.html/index.md'
+      - file: 'src/pages/sortiment/index.md'
         label: 'Sortiment'
         name: 'products'
         fields:
