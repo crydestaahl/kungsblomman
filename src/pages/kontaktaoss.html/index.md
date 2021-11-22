@@ -1,6 +1,6 @@
 ---
 templateKey: contact-page
-path: /kontaktaoss
+path: /kontaktaoss.html
 title: Kontakta oss
 image: /img/valkommen.jpg
 ---

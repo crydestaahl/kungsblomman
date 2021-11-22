@@ -1,6 +1,6 @@
 ---
 heading: Blommor till alla tillfällen
-path: /sortiment
+path: /sortiment.html
 templateKey: product-page
 title: Sortiment
 image: /img/annie-spratt-todxqieah9m-unsplash.jpg

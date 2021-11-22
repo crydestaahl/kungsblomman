@@ -28,12 +28,12 @@ intro:
         Följ oss på Facebook för att ta del av alla de senaste nyheterna och erbjudanden.
     - image: /img/annie-spratt.jpg
       title: Bröllop
-      link: /sortiment#Brudbinderi
+      link: /sortiment.html#Brudbinderi
       text: |
         Går du i giftastankar hjälper vi gärna till med dina bröllopsblommor.
     - image: /img/alana-harris.jpg
       title: Begravning
-      link: /sortiment#Begravningsbinderi
+      link: /sortiment.html#Begravningsbinderi
       text: 'Vi har stor erfarenhet av begravningsblommor och levererar i hela
         Kungsbacka. '
     - image: /img/tavin-dotson.jpg
