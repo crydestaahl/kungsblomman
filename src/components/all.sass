@@ -82,7 +82,7 @@ body
 .find-us-image
   height: 409px
   width: 495px
-  left: 100%
+  background-size: cover
 
 .product-jumbo
   background-position: center
@@ -197,9 +197,11 @@ $menu-label-color: $white-ter
 +tablet-only
   .blog-list-item .featured-thumbnail
     flex-basis: 50%
+  
+  .find-us-image
+    width: 495px
 
 +mobile
-
   .navbar-burger
     height: 4.25rem
     width: 4.25rem
@@ -241,4 +243,5 @@ $menu-label-color: $white-ter
     margin: 0 0 1em
   
   .find-us-image
-    width: 80vw
+    width: auto
+    background-size: contain

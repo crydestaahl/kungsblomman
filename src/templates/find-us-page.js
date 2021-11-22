@@ -17,16 +17,18 @@ export const FindUsPageTemplate = ({ title, image, content, contentComponent }) 
                 {title}
               </h2>
               <PageContent className="content" content={content} />
-              <div
-                className="full-width-image-container about-staff find-us-image margin-top-0"
-                style={{
-                  backgroundImage: `url(${
-                    !!image.childImageSharp ? image.childImageSharp.fluid.src : image
-                  })`,
-                  border: '5px solid rgb(162, 178, 159)'
-                }}
-              >
-            </div>
+              <div className="columns is-centered">
+                <div
+                  className="find-us-image margin-top-0"
+                  style={{
+                    backgroundImage: `url(${
+                      !!image.childImageSharp ? image.childImageSharp.fluid.src : image
+                    })`,
+                    border: '5px solid rgb(162, 178, 159)'
+                  }}
+                >
+              </div>
+            </div>    
             </div>
           </div>
         </div>
@@ -39,6 +41,7 @@ FindUsPageTemplate.propTypes = {
   title: PropTypes.string.isRequired,
   content: PropTypes.string,
   contentComponent: PropTypes.func,
+  image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
 }
 
 const FindUsPage = ({ data }) => {
@@ -51,6 +54,7 @@ const FindUsPage = ({ data }) => {
         title={post.frontmatter.title}
         image={post.frontmatter.image}
         content={post.html}
+        image={post.frontmatter.image}
       />
     </Layout>
   )

@@ -10,7 +10,7 @@ const FindUsPagePreview = ({ entry, getAsset }) => {
       <FindUsPageTemplate
         image={getAsset(data.image)}
         title={data.title}
-        content={data.body}
+        content={data.body}    
       />
     )
   } else {
