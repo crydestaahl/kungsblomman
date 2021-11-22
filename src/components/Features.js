@@ -1,12 +1,14 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
+import Fade from 'react-reveal/Fade';
 
 const FeatureGrid = ({ gridItems }) => (
   <div className="columns is-multiline">
     {gridItems.map((item) => (
       <div key={item.text} className="column is-6">
         <section className="section">
+        <Fade cascade>
           <div className="has-text-centered">
             <div
               style={{
@@ -34,6 +36,7 @@ const FeatureGrid = ({ gridItems }) => (
                 </h1>
               </a>             
           </div>
+          </Fade>
           <p 
             style={{ 
               margin: '1rem 0'

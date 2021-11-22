@@ -5,6 +5,7 @@ import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
+import Fade from 'react-reveal/Fade'; 
 
 export const IndexPageTemplate = ({
   image,
@@ -16,6 +17,7 @@ export const IndexPageTemplate = ({
   intro,
 }) => (
   <div>
+    <Fade cascade>
     <div
       className="full-width-image margin-top-0"
       style={{
@@ -27,6 +29,7 @@ export const IndexPageTemplate = ({
         border: '5px #A2B29F solid'
       }}
     >
+    
       <div
         style={{
           display: 'flex',
@@ -69,6 +72,7 @@ export const IndexPageTemplate = ({
         </h3>
       </div>
     </div>
+    </Fade>
     <section className="section section--gradient">
       <div className="container">
         <div className="section">
@@ -87,10 +91,12 @@ export const IndexPageTemplate = ({
                 </div>*/}
                 <div className="columns">
                   <div className="column is-12">
-                    <h3 className="has-text-weight-semibold is-size-2">
-                      {heading}
-                    </h3>
-                    <p>{description}</p>
+                    <Fade cascade>
+                      <h3 className="has-text-weight-semibold is-size-2">
+                        {heading}
+                      </h3>
+                      <p>{description}</p>
+                    </Fade>
                   </div>
                 </div>
                 <Features gridItems={intro.blurbs} />

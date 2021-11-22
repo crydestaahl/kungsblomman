@@ -6,6 +6,7 @@ import Features from '../components/Features'
 import Testimonials from '../components/Testimonials'
 import Pricing from '../components/Pricing'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
+import Fade from 'react-reveal/Fade';
 
 export const ProductPageTemplate = ({
   image,
@@ -41,30 +42,35 @@ export const ProductPageTemplate = ({
       </h2>
     </div>
     <section className="section section--gradient">
-      <div className="container">
+      <div className="container">      
         <div className="section">
           <div className="columns">
-            <div className="column  is-offset-1">
-              <h3 className="has-text-weight-semibold is-size-2">{heading}</h3>
-              <p>{description}</p>
-            </div>
+            <Fade cascade>
+              <div className="column  is-offset-1">
+                <h3 className="has-text-weight-semibold is-size-2">{heading}</h3>
+                <p>{description}</p>
+              </div>
+            </Fade>
           </div>
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <div className="columns is-centered">
-                <div className="column is-half">
-                  <h3 className="has-text-weight-semibold is-size-3" id={main.heading}>
-                    {main.heading}               
-                  </h3>
-                  <p>{main.description}</p>
-                </div>
-                <div className="column is-half">
-                  <h3 className="has-text-weight-semibold is-size-3" id={main.heading2}>
-                    {main.heading2}              
-                  </h3>
-                  <p>{main.description2}</p>
-                </div>
+                <Fade cascade>
+                  <div className="column is-half">
+                    <h3 className="has-text-weight-semibold is-size-3" id={main.heading}>
+                      {main.heading}               
+                    </h3>
+                    <p>{main.description}</p>
+                  </div>
+                  <div className="column is-half">
+                    <h3 className="has-text-weight-semibold is-size-3" id={main.heading2}>
+                      {main.heading2}              
+                    </h3>
+                    <p>{main.description2}</p>
+                  </div>
+                </Fade>
               </div>
+              <Fade cascade>
               <div className="tile is-ancestor">
                 <div className="tile is-vertical">
                   <div className="tile">
@@ -130,9 +136,10 @@ export const ProductPageTemplate = ({
                       <PreviewCompatibleImage imageInfo={main.image3} />
                     </article>
                   </div>
-                </div>
-              </div>              
-
+                </div>              
+              </div> 
+              </Fade>      
+              <Fade cascade>                                   
               <div className="tile is-ancestor">
                 <div className="tile is-vertical">
                   <div className="tile">
@@ -154,11 +161,7 @@ export const ProductPageTemplate = ({
                   </div>
                 </div>
               </div>
-
-
-
-
-          
+              </Fade>          
               <div
                 className="full-width-image-container"
                 style={{
@@ -179,7 +182,7 @@ export const ProductPageTemplate = ({
                */}
             </div>
           </div>
-        </div>
+        </div>        
       </div>
     </section>
   </div>

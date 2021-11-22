@@ -124,7 +124,7 @@ collections:
           # }
       - file: 'src/pages/personal/index.md'
         label: 'Personal'
-        name: 'personal'
+        name: 'personal-site'
         fields:
           - {
               label: 'Template Key',
