@@ -93,7 +93,7 @@ const Navbar = class extends React.Component {
               </Link>
              
               <Link className="navbar-item" to="https://kungsblomman.se/bookdirectly.php">
-                Beställ blomsterbud
+                Beställ blommor
               </Link>
             
             </div>

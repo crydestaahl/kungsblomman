@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Kungsblomman - Beställ via blomsterbud',
+    title: 'Kungsblomman - Beställ blommor',
     description:
     'Du finner Kungsblomman på Kungsmässan i Kungsbacka. Kungsmässan ligger mitt i Kungsbacka centrum. Det är enkelt att hitta till Kungsmässan oavsett från vilket väderstreck man kommer.',
   },
