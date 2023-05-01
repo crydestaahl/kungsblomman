@@ -22,7 +22,7 @@ intro:
   blurbs:
     - image: /img/annie-spratt2.jpg
       title: Aktuellt
-      link: https://www.facebook.com/
+      link: https://www.facebook.com/kungsblomman
       text: >-
         
         Följ oss på Facebook för att ta del av alla de senaste nyheterna och erbjudanden.
