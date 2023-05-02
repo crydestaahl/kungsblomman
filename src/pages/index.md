@@ -38,7 +38,7 @@ intro:
         Kungsbacka. "
     - image: /img/tavin-dotson.jpg
       title: Öppettider
-      link: /oppettider
+      link: /oppettider.html
       text: |
         Måndag - fredag 10-20
         Lördag - söndag 10-18
