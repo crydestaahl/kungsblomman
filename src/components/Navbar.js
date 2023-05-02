@@ -80,9 +80,6 @@ const Navbar = class extends React.Component {
                 Öppettider
               </Link>
 
-              <Link className="navbar-item" to="/personal.html">
-                Personal
-              </Link>
               {/* 
               <Link className="navbar-item" to="/blog">
                 Blog
@@ -91,11 +88,10 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/kontaktaoss.html">
                 Kontakta oss
               </Link>
-             
-              <Link className="navbar-item" to="https://kungsblomman.se/bookdirectly.php">
+
+              <Link className="navbar-item" to="/bestall.html">
                 Beställ blommor
               </Link>
-            
             </div>
             <div className="navbar-end has-text-centered">
 
