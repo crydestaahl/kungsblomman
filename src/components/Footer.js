@@ -101,7 +101,6 @@ const Footer = class extends React.Component {
                     <address>
                       Kungsblomman<br/>
                       Telefon:<span><a href="tel:+4630016851">0300-168 51</a></span><br/>
-                      Fax 0300-163 41<br/>
                       Kungsmässan<br/>
                       434 38 KUNGSBACKA<br/>
                     </address>                                
