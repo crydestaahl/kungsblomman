@@ -4,12 +4,11 @@ path: /oppettider.html
 title: Öppettider
 image: /img/personal.jpg
 ---
-
 Måndag – fredag 10-20
 
 Lördag – söndag 10-18
 
-**Helgöppet 2021**
+**Helgöppet 2023**
 
 Alla Helgons dag kl 10-18
 
