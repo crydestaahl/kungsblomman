@@ -4,8 +4,7 @@ path: /kontaktaoss.html
 title: Kontakta oss
 image: /img/valkommen.jpg
 ---
-
-Hos oss kan du beställa blommor både för avhämtning i butiken och för leverans med bud. Vi levererar själva i närområdet och på till andra platser i Sverige och världen förmedlar vi din beställning via våra ombud. Beställ direkt på hemsidan genom att klicka [HÄR](https://www.kungsblomman.se/bookdirectly.php).
+Hos oss kan du beställa blommor både för avhämtning i butiken och för leverans med bud. Vi levererar själva i närområdet och på till andra platser i Sverige och världen förmedlar vi din beställning via våra ombud.
 
 Du är självklart också välkommen att ringa oss för att beställa dina blommor. Då kan du betala med kort eller swish.
 
