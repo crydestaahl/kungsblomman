@@ -1,7 +1,7 @@
 ---
 templateKey: about-page
 path: /personal.html
-title: Personal
+title: Beställ blommor
 image: /img/personal.jpg
 ---
 
