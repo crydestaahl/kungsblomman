@@ -122,8 +122,8 @@ collections:
           #     },
           #   ],
           # }
-      - file: 'src/pages/personal.html/index.md'
-        label: 'Personal'
+      - file: 'src/pages/bestall.html/index.md'
+        label: 'Bestall'
         name: 'personal-site'
         fields:
           - {
