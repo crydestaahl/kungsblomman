@@ -2,8 +2,8 @@
 templateKey: index-page
 title: Välkommen till Kungsblomman
 image: /img/kungsblomman-jumbo23.jpg
-heading: Blommor till alla tillfällen
-subheading: Hämta i butik eller via blomsterbud
+heading: Blommor för alla, till varje tillfälle!
+subheading: Blommigt till alla!
 mainpitch:
   title: "Detta erbjuder vi:"
   description: >
@@ -16,8 +16,9 @@ mainpitch:
 
 
     Hos oss hittar du också alla tillbehör såsom krukor, sidenväxter, blomsternäring mm. Läs mer om vårt sortiment under de olika kategorierna.
-description: "Fina och friska blommor till kontoret och årets alla högtider.
-  Kontakta oss så ser vi till att möta era önskemål. "
+description: Välkomna till oss och se vårt stora sortiment.Krukväxter av olika
+  slag, snittblommor, krukor och tillbehör. Vi har det mesta. Våra florister
+  utför binderier till begravning, bröllop och allt däremellan.
 intro:
   blurbs:
     - image: /img/annie-spratt2.jpg
