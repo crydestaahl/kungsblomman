@@ -21,12 +21,6 @@ description: Välkomna till oss och se vårt stora sortiment.Krukväxter av olik
   utför binderier till begravning, bröllop och allt däremellan.
 intro:
   blurbs:
-    - image: /img/annie-spratt2.jpg
-      title: Aktuellt
-      link: https://www.facebook.com/kungsblomman
-      text: >-
-        
-        Följ oss på Facebook för att ta del av alla de senaste nyheterna och erbjudanden.
     - image: /img/annie-spratt.jpg
       title: Bröllop
       link: /sortiment.html#Brudbinderi
