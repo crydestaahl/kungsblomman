@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Välkommen till Kungsblomman
-image: /img/kungsblomman-jumbo23.jpg
+image: /img/test.jpg
 heading: Blommor för alla, till varje tillfälle!
 subheading: Blommigt till alla!
 mainpitch:
@@ -21,7 +21,7 @@ description: Välkomna till oss och se vårt stora sortiment.Krukväxter av olik
   utför binderier till begravning, bröllop och allt däremellan.
 intro:
   blurbs:
-    - image: /img/gregman.jpg
+    - image: /img/annie-spratt.jpg
       title: Bröllop
       link: /sortiment.html#Brudbinderi
       text: |
