@@ -21,7 +21,7 @@ description: Välkomna till oss och se vårt stora sortiment.Krukväxter av olik
   utför binderier till begravning, bröllop och allt däremellan.
 intro:
   blurbs:
-    - image: /img/annie-spratt.jpg
+    - image: /img/gregman.jpg
       title: Bröllop
       link: /sortiment.html#Brudbinderi
       text: |
