@@ -16,8 +16,8 @@ mainpitch:
 
 
     Hos oss hittar du också alla tillbehör såsom krukor, sidenväxter, blomsternäring mm. Läs mer om vårt sortiment under de olika kategorierna.
-description: Välkomna till oss och se vårt stora sortiment.Krukväxter av olika
-  slag, snittblommor, krukor och tillbehör. Vi har det mesta. Våra florister
+description: Välkomna till oss och se vårt stora sortiment. Krukväxter av olika
+  slag, snittblommor, krukor och tillbehör.Vi har det mesta. Våra florister
   utför binderier till begravning, bröllop och allt däremellan.
 intro:
   blurbs:
