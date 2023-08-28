@@ -8,7 +8,7 @@ Hos oss kan du beställa blommor både för avhämtning i butiken och för lever
 
 Du är självklart också välkommen att ringa oss för att beställa dina blommor. Då kan du betala med kort eller swish.
 
-Med anledning av Covid-19 hjälper vi självklart till lite extra nu! Tex kan du mejla eller ringa in din inköpslista så plockar vi ihop dina varor och möter upp dig utomhus eller kör varorna hem till dig. Vi hittar alltid en lösning!
+
 
 Välkommen att kontakta oss på:
 
