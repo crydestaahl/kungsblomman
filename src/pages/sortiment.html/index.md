@@ -2,6 +2,32 @@
 heading: Blommor till alla tillfällen
 path: /sortiment.html
 templateKey: product-page
+pricing:
+  heading: Pernumerera på blommor
+  description: "Vi gör det enkelt för dig att alltid ha vackra och fräscha
+    blommor. Välj vilken plan du önskar ned. "
+  plans:
+    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+      items:
+        - 3 lbs of coffee per month
+        - Green or roasted beans"
+        - One or two varieties of beans"
+      plan: Small
+      price: "50"
+    - description: Great for avid drinkers, java-loving couples and bigger crowds
+      items:
+        - 6 lbs of coffee per month
+        - Green or roasted beans
+        - Up to 4 different varieties of beans
+      plan: Big
+      price: "80"
+    - description: Want a few tiny batches from different varieties? Try our custom plan
+      items:
+        - Whatever you need
+        - Green or roasted beans
+        - Unlimited varieties
+      plan: Custom
+      price: ??
 title: Sortiment
 image: /img/annie-spratt-todxqieah9m-unsplash.jpg
 description: Vi har det mesta i blommor du kan behöva till olika tillfällen. Vi
@@ -13,7 +39,7 @@ description: Vi har det mesta i blommor du kan behöva till olika tillfällen. V
   de olika kategorierna.
 intro:
   blurbs:
-    - image: /img/flower1.png
+    - image: /img/alana-harris.jpg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
@@ -42,8 +68,8 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: Detta erbjuder vi
   description: >-
-
-    Vi har det mesta i blommor du kan behöva till olika tillfällen. Vi gör alla slags binderier, såsom begravning och brudbinderi och i våra kylar hittar du mängder av snittblommor och buketter. Vi gör också mycket planteringar i olika stilar.Vårt sortiment av krukväxter är brett och vid säsong har vi också trädgårdsväxter. Hos oss hittar du också alla tillbehör såsom krukor, sidenväxter, blomsternäring mm. Läs mer om vårt sortiment under de olika kategorierna.
+    
+    Vi har det mesta i blommor du kan behöva till olika tillfällen. Vi gör alla slags binderier, såsom begravning och brudbinderi och i våra kylar hittar du mängder av snittblommor och buketter.. Vi gör också mycket planteringar i olika stilar.Vårt sortiment av krukväxter är brett och vid säsong har vi också trädgårdsväxter. Hos oss hittar du också alla tillbehör såsom krukor, sidenväxter, blomsternäring mm. Läs mer om vårt sortiment under de olika kategorierna.
 main:
   heading: Arrangemang
   heading2: Snittblommor
@@ -130,39 +156,12 @@ main:
     för att spara tid för dig som kund, men också för att vi vill inspirera!
     Kanske kan du hitta det där lilla extra att ge bort till nån du bryr dig om,
     eller varför inte sätta hemma på bordet?
+full_image: /img/flower-jumbo.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
-    quote:
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
+    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
       the same thing I’ve been drinking every morning.
   - author: Philipp Trommler
     quote: Kaldi is the place to go if you want the best quality coffee. I love
       their stance on empowering farmers and transparency.
-full_image: /img/flower-jumbo.jpg
-pricing:
-  heading: Pernumerera på blommor
-  description: 'Vi gör det enkelt för dig att alltid ha vackra och fräscha
-    blommor. Välj vilken plan du önskar ned. '
-  plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
-      items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: Great for avid drinkers, java-loving couples and bigger crowds
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: ??
 ---
