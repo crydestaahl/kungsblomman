@@ -20,4 +20,4 @@ Annandag jul kl 10-18
 
 Nyårsafton kl 10-15
 
-Nyårsdagen stängt
+Nyårsdagen stängt.
