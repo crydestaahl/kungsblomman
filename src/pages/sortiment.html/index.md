@@ -28,7 +28,7 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: ??
-image: /img/annie-spratt-todxqieah9m-unsplash.jpg
+image: /img/landskap2_old.jpeg
 description: Vi har det mesta i blommor du kan behöva till olika tillfällen. Vi
   gör alla slags binderier, såsom begravning och brudbinderi och i våra kylar
   hittar du mängder av snittblommor och buketter. Vi gör också mycket
