@@ -27,7 +27,4 @@ AboutPagePreview.propTypes = {
 
 export default AboutPagePreview
 
-    {/* If shit goues down
-      title={entry.getIn(['data', 'title'])}
-      content={widgetFor('body')}
-    */}
+    

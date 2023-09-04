@@ -54,7 +54,6 @@ const FindUsPage = ({ data }) => {
         title={post.frontmatter.title}
         image={post.frontmatter.image}
         content={post.html}
-        image={post.frontmatter.image}
       />
     </Layout>
   )
