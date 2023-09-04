@@ -1,2 +1,2 @@
 /static/*
-  Cache-Control: "public, no-store, no-cache, must-revalidate"
+  Cache-Control: "public, max-age=604800"
