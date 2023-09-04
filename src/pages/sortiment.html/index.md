@@ -4,8 +4,8 @@ path: /sortiment.html
 templateKey: product-page
 pricing:
   heading: Pernumerera på blommor
-  description: 'Vi gör det enkelt för dig att alltid ha vackra och fräscha
-    blommor. Välj vilken plan du önskar ned. '
+  description: "Vi gör det enkelt för dig att alltid ha vackra och fräscha
+    blommor. Välj vilken plan du önskar ned. "
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
@@ -13,14 +13,14 @@ pricing:
         - Green or roasted beans"
         - One or two varieties of beans"
       plan: Small
-      price: '50'
+      price: "50"
     - description: Great for avid drinkers, java-loving couples and bigger crowds
       items:
         - 6 lbs of coffee per month
         - Green or roasted beans
         - Up to 4 different varieties of beans
       plan: Big
-      price: '80'
+      price: "80"
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
@@ -68,12 +68,11 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: Detta erbjuder vi
   description: >-
-
+    
     Vi har det mesta i blommor du kan behöva till olika tillfällen. Vi gör alla slags binderier, såsom begravning och brudbinderi och i våra kylar hittar du mängder av snittblommor och buketter.. Vi gör också mycket planteringar i olika stilar.Vårt sortiment av krukväxter är brett och vid säsong har vi också trädgårdsväxter. Hos oss hittar du också alla tillbehör såsom krukor, sidenväxter, blomsternäring mm. Läs mer om vårt sortiment under de olika kategorierna.
 testimonials:
   - author: Elisabeth Kaurismäki
-    quote:
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
+    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
       the same thing I’ve been drinking every morning.
   - author: Philipp Trommler
     quote: Kaldi is the place to go if you want the best quality coffee. I love
@@ -89,7 +88,7 @@ main:
   heading7: Tillbehör
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/adobe-stock.jpg
+    image: /img/img_9414.jpg
   heading8: Företagsblommor
   description2: >
     Vår kyl är vår stolthet! Här hittar du färdiga buketter och snittarrangemang
