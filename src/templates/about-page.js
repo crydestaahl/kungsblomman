@@ -20,7 +20,7 @@ export const AboutPageTemplate = ({ title, image, content, contentComponent }) =
                 className="full-width-image-container about-staff margin-top-0"
                 style={{
                   backgroundImage: `url(${
-                    !!image.childImageSharp ? image.childImageSharp.fluid.src : image
+                    image && image.childImageSharp ? image.childImageSharp.fluid.src : ''
                   })`,
                   border: '5px solid rgb(162, 178, 159)'
                 }}
