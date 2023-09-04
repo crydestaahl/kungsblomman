@@ -4,22 +4,15 @@ path: /kontaktaoss.html
 title: Kontakta oss
 image: /img/annie-spratt.jpg
 ---
-Hos oss kan du beställa blommor både för avhämtning i butiken och för leverans med bud. Vi levererar själva i närområdet och på till andra platser i Sverige och världen förmedlar vi din beställning via våra ombud.
-
-Du är självklart också välkommen att ringa oss för att beställa dina blommor. Då kan du betala med kort eller swish.
-
-
-
 Välkommen att kontakta oss på:
 
 Telefon: 0300-16851 (kl 10-20 på vardagar och 10-18 på helgerna)
-Fax: 0300-16341
 E-mail: info@kungsblomman.se
 Hemsida: www.kungsblomman.se
 
 Kungsblomman
 Kungsmässan
-Borgmästaregatan
+Borgmästaregatan 3
 43438 Kungsbacka
 
 Bankgiro 845-7640
@@ -29,4 +22,4 @@ Reg nr: 13-556224-8665-01
 
 Vid reklamation, ta med varan och kvittot tillbaka till oss inom 1 vecka. Har du inte möjlighet att komma till oss med varan inom 1 vecka så ring eller mejla oss gärna.
 
-Snittblommor som hanteras rätt ska normalt hålla ca 1 vecka. På äldra vara, rödmärkt, gäller ej garanti.
+Snittblommor som hanteras rätt ska normalt hålla ca 1 vecka. På äldre vara, rödmärkt, gäller ej garanti.
