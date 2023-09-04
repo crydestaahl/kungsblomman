@@ -4,7 +4,7 @@ path: /personal.html
 title: Beställ blommor
 image: /img/img_9414.jpg
 ---
-Beställ gärna dina blommor!! Välkommen att ringa oss på 0300-16851 eller mejla info@kungsblomman.se så hjälper v gärna till. Enklast betalar du med swish men vi kan också ta betalt med kort via payson. 
+Beställ gärna dina blommor!! Välkommen att ringa oss på 0300-16851 eller mejla info@kungsblomman.se så hjälper vi gärna till. Enklast betalar du med swish till 1236266340. Vill du hellre betala med kort kontaktar du oss så kan vi mejla en betalningslänk via payson.
 
 
 
