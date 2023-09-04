@@ -2,7 +2,7 @@
 templateKey: contact-page
 path: /kontaktaoss.html
 title: Kontakta oss
-image: /img/valkommen.jpg
+image: /img/annie-spratt.jpg
 ---
 Hos oss kan du beställa blommor både för avhämtning i butiken och för leverans med bud. Vi levererar själva i närområdet och på till andra platser i Sverige och världen förmedlar vi din beställning via våra ombud.
 
