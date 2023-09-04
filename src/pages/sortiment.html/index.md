@@ -28,7 +28,6 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: ??
-title: Sortiment
 image: /img/annie-spratt-todxqieah9m-unsplash.jpg
 description: Vi har det mesta i blommor du kan behöva till olika tillfällen. Vi
   gör alla slags binderier, såsom begravning och brudbinderi och i våra kylar
@@ -37,6 +36,7 @@ description: Vi har det mesta i blommor du kan behöva till olika tillfällen. V
   säsong har vi också trädgårdsväxter. Hos oss hittar du också alla tillbehör
   såsom krukor, sidenväxter, blomsternäring mm. Läs mer om vårt sortiment under
   de olika kategorierna.
+full_image: /img/flower-jumbo.jpg
 intro:
   blurbs:
     - image: /img/alana-harris.jpg
@@ -70,6 +70,14 @@ intro:
   description: >-
     
     Vi har det mesta i blommor du kan behöva till olika tillfällen. Vi gör alla slags binderier, såsom begravning och brudbinderi och i våra kylar hittar du mängder av snittblommor och buketter.. Vi gör också mycket planteringar i olika stilar.Vårt sortiment av krukväxter är brett och vid säsong har vi också trädgårdsväxter. Hos oss hittar du också alla tillbehör såsom krukor, sidenväxter, blomsternäring mm. Läs mer om vårt sortiment under de olika kategorierna.
+testimonials:
+  - author: Elisabeth Kaurismäki
+    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
+      the same thing I’ve been drinking every morning.
+  - author: Philipp Trommler
+    quote: Kaldi is the place to go if you want the best quality coffee. I love
+      their stance on empowering farmers and transparency.
+title: Sortiment
 main:
   heading: Arrangemang
   heading2: Snittblommor
@@ -80,7 +88,7 @@ main:
   heading7: Tillbehör
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/james-cousins.jpg
+    image: /img/adobe-stock.jpg
   heading8: Företagsblommor
   description2: >
     Vår kyl är vår stolthet! Här hittar du färdiga buketter och snittarrangemang
@@ -156,12 +164,4 @@ main:
     för att spara tid för dig som kund, men också för att vi vill inspirera!
     Kanske kan du hitta det där lilla extra att ge bort till nån du bryr dig om,
     eller varför inte sätta hemma på bordet?
-full_image: /img/flower-jumbo.jpg
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: Kaldi is the place to go if you want the best quality coffee. I love
-      their stance on empowering farmers and transparency.
 ---
