@@ -21,22 +21,32 @@ description: Välkomna till oss och se vårt stora sortiment. Krukväxter av oli
   begravning, bröllop och allt däremellan.
 intro:
   blurbs:
-    - image: /img/annie-spratt.jpg
+    - image: /img/3.jpg
       title: Bröllop
       link: /sortiment.html#Brudbinderi
       text: |
         Går du i giftastankar hjälper vi gärna till med dina bröllopsblommor.
-    - image: /img/alana-harris.jpg
+    - image: /img/012e3cf560c352bc5dc35dc100f3dea947fa19a56b-2-.jpg
       title: Begravning
       link: /sortiment.html#Begravningsbinderi
       text: "Vi har stor erfarenhet av begravningsblommor och levererar i hela
         Kungsbacka. "
-    - image: /img/tavin-dotson.jpg
+    - image: /img/011cfeea61cbdc2c8cee28233f49ab8a60078c7e3f-2-.jpg
       title: Öppettider
       link: /oppettider.html
-      text: |
+      text: |-
         Måndag - fredag 10-20
         Lördag - söndag 10-18
+
+        Helgöppet 2023
+        Alla Helgons Dag 10-18
+        Julafton 10-14
+        Juldagen Stängt
+        Annandag jul 10-18
+        Nyårsafton 10-15
+        Nyårsdagen stängt
+        Trettondag jul 10-18
+        Trettondagen 10-18
     - title: Besök oss på Kungsmässan
       link: /hittaoss
       image: /img/logo-svarttext.png
