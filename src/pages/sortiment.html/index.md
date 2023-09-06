@@ -111,20 +111,16 @@ main:
     Vi har stor erfarenhet av begravningsblommor och levererar i hela
     Kungsbacka. Vill du skicka blommor till en begravning någon annanstans i
     Sverige, eller världen, hjälper vi till att förmedla det via en annan butik.
-    Nedan ser du några exempel på begravningsbinderier. På vår facebooksida
-    hittar du fler bilder. Välkomna att ringa eller besöka oss i butiken för
-    beställning och rådgivning.
+    Välkomna att ringa eller besöka oss i butiken för beställning och
+    rådgivning.
   image4:
     alt: TEST1
     image: /img/landskap3.jpg
   description5: >
-    Vi satsar stort på vårt sortiment av krukväxter och försöker alltid hitta
-    nyheter. På vår facebooksida hittar du nyheterna. Vi handlar våra växter
-    både från lokala odlare, från Danmark och från blomsterauktionen i Aalsmeer,
+    Vi satsar stort på vårt sortiment av krukväxter. Vi handlar våra växter både
+    från lokala odlare, från Danmark och från blomsterauktionen i Aalsmeer,
     Holland. Under säsong har vi en mängd olika trädgårdsblommor i vårt växthus
-    och på vår utegård. Skötseln varierar oändligt mellan olika sorters
-    krukväxter och plantor. Välkomna att ringa eller besöka oss för råd och
-    tips.
+    och på vår utegård. Välkomna att ringa eller besöka oss för råd och tips.
   image5:
     alt: TEST2
     image: /img/landskap2.jpg
@@ -132,18 +128,16 @@ main:
     Vi har krukor och vaser från flera olika leverantörer och tack vare det kan
     vi hålla ett bra och prisvärt sortiment i alla färger, former och material.
     Vi har både krukor till fönsterväxterna, lite större till golvväxter och
-    utomhuskrukor i olika material. Våra huvudleverantörer är Ensi och VK
-    vividi. Välkommen in och kika!
+    utomhuskrukor i olika material. Våra huvudleverantör är Ensi. Välkommen in
+    och kika!
   image6:
     alt: TEST3
     image: /img/kungsblomman-jumbo2.jpg
   description7: >
-    Ibland kan växterna behöva lite hjälp på traven. Vi har jord,
-    blomsternäring, medel mot växtangrepp och sjukdomar, krukor för omplantering
-    mm. Vi säljer också olika sorters oasis och andra binderiartiklar om du vill
-    arrangera dina snittblommor själv. Har du någon plats där du inte kan sköta
-    växterna, till exempel i en mörk hall eller i sommarstugan, har vi också ett
-    stort sortiment av konstgjorda växter.
+    Ibland kan växterna behöva lite hjälp på traven. Vi säljer jord, näring av
+    olika slag. krukor för omplantering mm. Vi säljer också olika sorters oasis
+    och andra binderiartiklar om du vill arrangera dina snittblommor själv. Vi
+    säljer också fröer och lökar vid säsong.
   description8: >
     Vill du har fräscha blommor levererade till ditt företag varje vecka eller
     till något särskilt event? Eller kanske vill du ha uppvakta personal och
