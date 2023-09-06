@@ -42,8 +42,7 @@ intro:
       image: /img/logo-svarttext.png
       text: Du finner Kungsblomman på Kungsmässan i Kungsbacka.
   heading: Kungsblomman - Beställ blommor
-  description: Kungsblomman hjälper dig att se till så att du alltid har fräscha
-    och sprudlande blommor för alla tillfällen.
+  description: Vi har blommor till varje tillfälle!.
 main:
   heading: Great coffee with no compromises
   description: >
