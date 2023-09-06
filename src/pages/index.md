@@ -12,13 +12,13 @@ mainpitch:
     mängder av snittblommor och buketter. 
 
 
-    Vi gör också mycket planteringar i olika stilar. Vårt sortiment av krukväxter är brett och vid säsong har vi också trädgårdsväxter.  
+    Vi gör också mycket växtarrangemang i olika stilar. Vårt sortiment av krukväxter är brett och vid säsong har vi också trädgårdsväxter.  
 
 
-    Hos oss hittar du också alla tillbehör såsom krukor, sidenväxter, blomsternäring mm. Läs mer om vårt sortiment under de olika kategorierna.
+    Hos oss hittar du också alla tillbehör såsom krukor, vaser, blomsternäring mm. Läs mer om vårt sortiment under de olika kategorierna.
 description: Välkomna till oss och se vårt stora sortiment. Krukväxter av olika
-  slag, snittblommor, krukor och tillbehör.Vi har det mesta. Våra florister
-  utför binderier till begravning, bröllop och allt däremellan.
+  slag, snittblommor, krukor och tillbehör. Våra florister utför binderier till
+  begravning, bröllop och allt däremellan.
 intro:
   blurbs:
     - image: /img/annie-spratt.jpg
