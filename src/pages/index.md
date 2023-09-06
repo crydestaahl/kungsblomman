@@ -21,7 +21,7 @@ description: Välkomna till oss och se vårt stora sortiment. Krukväxter av oli
   begravning, bröllop och allt däremellan.
 intro:
   blurbs:
-    - image: /img/3.jpg
+    - image: /img/018ea275620984f933ce91f578e6cd121597fa9f61.jpg
       title: Bröllop
       link: /sortiment.html#Brudbinderi
       text: |
