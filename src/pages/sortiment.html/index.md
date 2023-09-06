@@ -28,7 +28,7 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: ??
-image: /img/landskap2_old.jpeg
+image: /img/0130da0e7cdd31f2f098929a54f7ab068fdb0d204f-2-.jpg
 description: Vi har det mesta i blommor du kan behöva till olika tillfällen. Vi
   gör alla slags binderier, såsom begravning och brudbinderi och i våra kylar
   hittar du mängder av snittblommor och buketter. Vi gör också mycket
@@ -91,19 +91,10 @@ main:
     image: /img/img_9414.jpg
   heading8: Företagsblommor
   description2: >
-    Vår kyl är vår stolthet! Här hittar du färdiga buketter och snittarrangemang
-    i olika stilar och prisklasser. Vi har också ett stort sortiment av buntade
-    blommor till bra priser. Hittar du inte det du söker här, så hjälper vi
-    gärna till att sätta ihop en bukett eller arrangemang efter dina önskemål.
-    Välkomna in i kylan! För att dina snittblommor ska hålla länge finns det
-    några enkla men viktiga tips. Snitta stjälkarna med vass kniv eller
-    snittverktyg och sätt dem i vas med mycket vatten. Om du fick en påse med
-    snittnäring med dig från butiken så häller du i denna. Fyll på vatten ofta
-    efter hand blommorna dricker och byt gärna vatten helt efter ett par dagar.
-    Snittblommor håller i regel bäst i svalare temperaturer så har du ett svalt
-    ställe kan det löna sig att ställa dem där, tex på natten. Tulpaner som inte
-    dragit vatten när de köps, tex 10-packar, ska stå med plasten om i vatten
-    ett par timmar innan de arrangeras.
+    Hos oss hittar du vackra bundna buketter, buntar till kanonpris och lösa
+    snittblommor. Välj en av våra förproducerade buketter i kylen, eller välj ut
+    dina blommor själv i vår stora snittkyl. Vi säljer också lokalodlade
+    snittblommor när säsongen tillåter. 
   image2:
     alt: A green cup of a coffee on a wooden table
     image: /img/frame-harirak.jpg
@@ -111,9 +102,8 @@ main:
     Går du i giftastankar hjälper vi gärna till med dina bröllopsblommor. Vi gör
     allt från brudbuketten till bordsdekorationer, brudgumscorsage och
     tärnbuketter. Våra duktiga florister hjälper dig att hitta just det du vill
-    ha. Nedan ser du några av alla hundratals brudbuketter och tillbehör vi
-    gjort. På vår facebooksida hittar du fler bilder. Välkommen in i butiken för
-    en pratstund och en titt i våra många böcker och pärmar för mer inspiration!
+    ha. Välkommen in i butiken för en pratstund och en titt i våra många böcker
+    och pärmar för mer inspiration!
   image3:
     alt: Coffee beans
     image: /img/landskap1.jpg
