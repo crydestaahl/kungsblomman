@@ -97,7 +97,7 @@ main:
     snittblommor när säsongen tillåter. 
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/frame-harirak.jpg
+    image: /img/01b6435ac35dfeebaa80cd85dcfc16c09ac3b2af15-2-.jpg
   description3: >
     Går du i giftastankar hjälper vi gärna till med dina bröllopsblommor. Vi gör
     allt från brudbuketten till bordsdekorationer, brudgumscorsage och
@@ -106,7 +106,7 @@ main:
     och pärmar för mer inspiration!
   image3:
     alt: Coffee beans
-    image: /img/landskap1.jpg
+    image: /img/01d322c611725e1fdc70d30683b970a3c3187f5daf-2-.jpg
   description4: >
     Vi har stor erfarenhet av begravningsblommor och levererar i hela
     Kungsbacka. Vill du skicka blommor till en begravning någon annanstans i
@@ -115,7 +115,7 @@ main:
     rådgivning.
   image4:
     alt: TEST1
-    image: /img/landskap3.jpg
+    image: /img/01e6619ab68dfc7dda249103603bf8d198948acb01.jpg
   description5: >
     Vi satsar stort på vårt sortiment av krukväxter. Vi handlar våra växter både
     från lokala odlare, från Danmark och från blomsterauktionen i Aalsmeer,
