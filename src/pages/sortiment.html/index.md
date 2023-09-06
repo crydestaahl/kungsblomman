@@ -36,7 +36,7 @@ description: Vi har det mesta i blommor du kan behöva till olika tillfällen. V
   säsong har vi också trädgårdsväxter. Hos oss hittar du också alla tillbehör
   såsom krukor, sidenväxter, blomsternäring mm. Läs mer om vårt sortiment under
   de olika kategorierna.
-full_image: /img/flower-jumbo.jpg
+full_image: /img/015ed8d34916606d1ceb190fb73d395bc699fc3e73.jpg
 intro:
   blurbs:
     - image: /img/alana-harris.jpg
@@ -123,7 +123,7 @@ main:
     och på vår utegård. Välkomna att ringa eller besöka oss för råd och tips.
   image5:
     alt: TEST2
-    image: /img/landskap2.jpg
+    image: /img/01f3ad54f86515739c45a78b943bedfc0410368dcd-2-.jpg
   description6: >
     Vi har krukor och vaser från flera olika leverantörer och tack vare det kan
     vi hålla ett bra och prisvärt sortiment i alla färger, former och material.
@@ -132,7 +132,7 @@ main:
     och kika!
   image6:
     alt: TEST3
-    image: /img/kungsblomman-jumbo2.jpg
+    image: /img/01fa80acb2b634a23da96af1cbb71b46b4d0a045be-2-.jpg
   description7: >
     Ibland kan växterna behöva lite hjälp på traven. Vi säljer jord, näring av
     olika slag. krukor för omplantering mm. Vi säljer också olika sorters oasis
