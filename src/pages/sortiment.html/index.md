@@ -36,7 +36,7 @@ description: Vi har det mesta i blommor du kan behöva till olika tillfällen. V
   säsong har vi också trädgårdsväxter. Hos oss hittar du också alla tillbehör
   såsom krukor, sidenväxter, blomsternäring mm. Läs mer om vårt sortiment under
   de olika kategorierna.
-full_image: /img/015ed8d34916606d1ceb190fb73d395bc699fc3e73.jpg
+full_image: /img/018ff783265206bfbdbff6ea10d0cfdcd86df0fa3c-2-.jpg
 intro:
   blurbs:
     - image: /img/alana-harris.jpg
@@ -88,7 +88,7 @@ main:
   heading7: Tillbehör
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/01cc7a1812085c6dc6787557655bbdc434f83d20a1.jpg
+    image: /img/012e3cf560c352bc5dc35dc100f3dea947fa19a56b-2-.jpg
   heading8: Företagsblommor
   description2: >
     Hos oss hittar du vackra bundna buketter, buntar till kanonpris och lösa
@@ -97,7 +97,7 @@ main:
     snittblommor när säsongen tillåter. 
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/01b6435ac35dfeebaa80cd85dcfc16c09ac3b2af15-2-.jpg
+    image: /img/018ea275620984f933ce91f578e6cd121597fa9f61-2-.jpg
   description3: >
     Går du i giftastankar hjälper vi gärna till med dina bröllopsblommor. Vi gör
     allt från brudbuketten till bordsdekorationer, brudgumscorsage och
@@ -106,7 +106,7 @@ main:
     och pärmar för mer inspiration!
   image3:
     alt: Coffee beans
-    image: /img/01d322c611725e1fdc70d30683b970a3c3187f5daf-2-.jpg
+    image: /img/01b106c317ba3068a1bec83896ed8e23d8f4597e05-2-.jpg
   description4: >
     Vi har stor erfarenhet av begravningsblommor och levererar i hela
     Kungsbacka. Vill du skicka blommor till en begravning någon annanstans i
@@ -115,7 +115,7 @@ main:
     rådgivning.
   image4:
     alt: TEST1
-    image: /img/01e6619ab68dfc7dda249103603bf8d198948acb01.jpg
+    image: /img/01e6619ab68dfc7dda249103603bf8d198948acb01-3-.jpg
   description5: >
     Vi satsar stort på vårt sortiment av krukväxter. Vi handlar våra växter både
     från lokala odlare, från Danmark och från blomsterauktionen i Aalsmeer,
@@ -132,7 +132,7 @@ main:
     och kika!
   image6:
     alt: TEST3
-    image: /img/01fa80acb2b634a23da96af1cbb71b46b4d0a045be-2-.jpg
+    image: /img/017b45c8e270e82abe4ff1d11b7a0a0f92bb15e275-2-.jpg
   description7: >
     Ibland kan växterna behöva lite hjälp på traven. Vi säljer jord, näring av
     olika slag. krukor för omplantering mm. Vi säljer också olika sorters oasis
