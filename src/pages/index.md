@@ -26,7 +26,7 @@ intro:
       link: /sortiment.html#Brudbinderi
       text: |
         Går du i giftastankar hjälper vi gärna till med dina bröllopsblommor.
-    - image: /img/012e3cf560c352bc5dc35dc100f3dea947fa19a56b-2-.jpg
+    - image: /img/012e3cf560c352bc5dc35dc100f3dea947fa19a56b.jpg
       title: Begravning
       link: /sortiment.html#Begravningsbinderi
       text: "Vi har stor erfarenhet av begravningsblommor och levererar i hela
