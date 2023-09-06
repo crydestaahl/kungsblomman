@@ -21,17 +21,17 @@ description: Välkomna till oss och se vårt stora sortiment. Krukväxter av oli
   begravning, bröllop och allt däremellan.
 intro:
   blurbs:
-    - image: /img/018ea275620984f933ce91f578e6cd121597fa9f61.jpg
+    - image: /img/018ea275620984f933ce91f578e6cd121597fa9f61-2-.jpg
       title: Bröllop
       link: /sortiment.html#Brudbinderi
       text: |
         Går du i giftastankar hjälper vi gärna till med dina bröllopsblommor.
-    - image: /img/012e3cf560c352bc5dc35dc100f3dea947fa19a56b.jpg
+    - image: /img/012e3cf560c352bc5dc35dc100f3dea947fa19a56b-2-.jpg
       title: Begravning
       link: /sortiment.html#Begravningsbinderi
       text: "Vi har stor erfarenhet av begravningsblommor och levererar i hela
         Kungsbacka. "
-    - image: /img/011cfeea61cbdc2c8cee28233f49ab8a60078c7e3f-2-.jpg
+    - image: /img/01c6a6cbd1c513ca6a53684b9dc77e42ab18c495e6.jpg
       title: Öppettider
       link: /oppettider.html
       text: |-
