@@ -88,7 +88,7 @@ main:
   heading7: Tillbehör
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/img_9414.jpg
+    image: /img/01cc7a1812085c6dc6787557655bbdc434f83d20a1.jpg
   heading8: Företagsblommor
   description2: >
     Hos oss hittar du vackra bundna buketter, buntar till kanonpris och lösa
