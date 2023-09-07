@@ -140,7 +140,7 @@ main:
     säljer också fröer och lökar vid säsong.
   description8: >
     Vill du har fräscha blommor levererade till ditt företag varje vecka eller
-    till något särskilt event? Eller kanske vill du ha uppvakta personal och
+    till något särskilt event? Eller kanske vill du uppvakta personal och
     kunder? Hör av dig till oss så hjälper vi till. Välkomna!
   description: >
     På kungsblomman försöker vi alltid hålla ett stort sortiment av färdiga
