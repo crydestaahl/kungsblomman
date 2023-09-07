@@ -15,7 +15,7 @@ mainpitch:
     Vi gör också mycket växtarrangemang i olika stilar. Vårt sortiment av krukväxter är brett och vid säsong har vi också trädgårdsväxter.  
 
 
-    Hos oss hittar du också alla tillbehör såsom krukor, vaser, blomsternäring mm. Läs mer om vårt sortiment under de olika kategorierna.
+    Hos oss hittar du också alla tillbehör såsom krukor, vaser, blomsternäring mm. Vill du att den du uppvaktar ska få välja sina egna blommor, har vi våra egna laddningsbara presentkort. Den perfekta presenten för blomsterälskaren! Läs mer om vårt sortiment under de olika kategorierna.
 description: Välkomna till oss och se vårt stora sortiment. Krukväxter av olika
   slag, snittblommor, krukor och tillbehör. Våra florister utför binderier till
   begravning, bröllop och allt däremellan.
