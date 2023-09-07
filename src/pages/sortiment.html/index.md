@@ -139,7 +139,7 @@ main:
     och andra binderiartiklar om du vill arrangera dina snittblommor själv. Vi
     säljer också fröer och lökar vid säsong.
   description8: >
-    Vill du har fräscha blommor levererade till ditt företag varje vecka eller
+    Vill du ha fräscha blommor levererade till ditt företag varje vecka eller
     till något särskilt event? Eller kanske vill du uppvakta personal och
     kunder? Hör av dig till oss så hjälper vi till. Välkomna!
   description: >
