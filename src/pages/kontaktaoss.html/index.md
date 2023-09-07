@@ -7,7 +7,11 @@ image: /img/annie-spratt.jpg
 Välkommen att kontakta oss på:
 
 Telefon: 0300-16851 (kl 10-20 på vardagar och 10-18 på helgerna)
+
+
 E-mail: info@kungsblomman.se
+
+
 Hemsida: www.kungsblomman.se
 
 Kungsblomman
