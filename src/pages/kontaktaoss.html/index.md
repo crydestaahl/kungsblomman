@@ -2,7 +2,7 @@
 templateKey: contact-page
 path: /kontaktaoss.html
 title: Kontakta oss
-image: /img/annie-spratt.jpg
+image: /img/01a67516ba34616a8d691039fa0dc2cf130af54871-2-.jpg
 ---
 Välkommen att kontakta oss på:
 
