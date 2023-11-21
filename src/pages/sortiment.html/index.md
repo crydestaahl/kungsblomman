@@ -28,7 +28,7 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: ??
-image: /img/0130da0e7cdd31f2f098929a54f7ab068fdb0d204f-2-.jpg
+image: /img/012e3cf560c352bc5dc35dc100f3dea947fa19a56b-2-.jpg
 description: Vi har det mesta i blommor du kan behöva till olika tillfällen. Vi
   gör alla slags binderier, såsom begravning och brudbinderi och i våra kylar
   hittar du mängder av snittblommor och buketter. Vi gör också mycket
