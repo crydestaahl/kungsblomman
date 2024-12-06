@@ -8,11 +8,29 @@ Måndag – fredag 10-20
 
 Lördag – söndag 10-18
 
-**Helgöppet 2024**
+
+
+**Öppet i Julhelgen**
+
+J﻿ulafton kl. 10-14
+
+J﻿uldagen stängt
+
+A﻿nnandag jul kl. 10-18
+
+N﻿yårsafton kl. 10-15
+
+N﻿årsdagen stängt
+
+T﻿rettondagsafton kl. 10-18
+
+T﻿rettondagen kl. 10-18
+
+**Helgöppet 2025**
 
 L﻿ångfredag kl.10-18
 
-P﻿åskafton kl. 10-18
+P﻿åskafton kl. 10-15
 
 P﻿åskdagen kl. 10-18
 
