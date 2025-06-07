@@ -8,23 +8,7 @@ Måndag – fredag 10-20
 
 Lördag – söndag 10-18
 
-
-
 **Helgöppet 2025**
-
-L﻿ångfredag kl.10-18
-
-P﻿åskafton kl. 10-15
-
-P﻿åskdagen kl. 10-18
-
-A﻿nnandag Påsk kl. 10-18
-
-1﻿:a Maj kl. 10-18
-
-K﻿ristihimmelfärds dag kl. 10-18
-
-N﻿ationaldagen kl. 10-18
 
 M﻿idsommarafton kl. 10-15
 
