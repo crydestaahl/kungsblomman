@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Välkommen till Kungsblomman
-image: /img/kungsb2.jpg
+image: /img/img_9414.jpg
 heading: Blommor till varje tillfälle!
 subheading: Blommigt till alla!
 mainpitch:
