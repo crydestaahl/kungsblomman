@@ -24,4 +24,4 @@ Reg nr: 13-556224-8665-01
 
 Vid reklamation, ta med varan och kvittot tillbaka till oss inom 1 vecka. Har du inte möjlighet att komma till oss med varan inom 1 vecka så ring eller mejla oss gärna.
 
-Snittblommor som hanteras rätt ska normalt hålla ca 1 vecka. På äldre vara, rödmärkt, gäller ej garanti.
+Snittblommor som hanteras rätt ska normalt hålla 1 vecka. På äldre vara, rödmärkt, gäller ej garanti.
