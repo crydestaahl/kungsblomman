@@ -10,10 +10,6 @@ Lördag – söndag 10-18
 
 **Helgöppet 2025**
 
-M﻿idsommarafton kl. 10-15
-
-M﻿idsommardagen stängt
-
 Alla Helgons dag kl. 10-18
 
 Julafton kl. 10-14
