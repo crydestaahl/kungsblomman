@@ -4,9 +4,9 @@ path: /oppettider.html
 title: Öppettider
 image: /img/personal.jpg
 ---
-Måndag – fredag 10-20
+Måndag – Fredag 10-20
 
-Lördag – söndag 10-18
+Lördag – Söndag 10-18
 
 **Helgöppet 2025**
 
